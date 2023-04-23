@@ -1,0 +1,15 @@
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\bin\Debug\net7.0\zadacha54.exe
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\bin\Debug\net7.0\zadacha54.deps.json
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\bin\Debug\net7.0\zadacha54.runtimeconfig.json
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\bin\Debug\net7.0\zadacha54.dll
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\bin\Debug\net7.0\zadacha54.pdb
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.csproj.AssemblyReference.cache
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.AssemblyInfoInputs.cache
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.AssemblyInfo.cs
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.csproj.CoreCompileInputs.cache
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.dll
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\refint\zadacha54.dll
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.pdb
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\zadacha54.genruntimeconfig.cache
+G:\Учеба Женя\c#\DZ_seminar8\zadacha54\obj\Debug\net7.0\ref\zadacha54.dll
